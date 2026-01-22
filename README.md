@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there!
+<img width="500" height="480" alt="image" src="https://github.com/user-attachments/assets/4b0bb49c-33ca-458d-8106-204ccb7d30a1" />
+
 
 <!--
 **acbagwell6/acbagwell6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
